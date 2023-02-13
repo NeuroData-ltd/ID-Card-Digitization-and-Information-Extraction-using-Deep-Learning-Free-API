@@ -23,14 +23,16 @@ Annotations include bounding boxes for each image and have the same name as the 
     <img src="https://neurodata.tech/storage/blogs/carte%20neurodata_1676143595.png" alt="id-card-digitization-gif" width = "500"/>
 </div>
 
-### Step 1: Get your free API Key
+## Step 1: Get your free API Key
 Get your free API Key from https://neurodata.tech/products
 
-### Step 2: Sign up and verify your email
+## Step 2: Sign up and verify your email
 you will get a token for 100 requests for ID card extraction informations.
 
-### Step 3: Upload Images For parsing
+
+## Step 3: Upload Images For parsing
 Get the results 
+
 <div align="center">
     <img src="sample.png" alt="id-card-parsing-neurodata-results" width = "500"/>
 </div>
