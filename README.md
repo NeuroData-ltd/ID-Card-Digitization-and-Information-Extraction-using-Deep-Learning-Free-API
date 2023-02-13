@@ -36,24 +36,30 @@ Get the results
 <div align="center">
     <img src="sample.png" alt="id-card-parsing-neurodata-results" width = "500"/>
 </div>
+
 ** **
 
-#Pipeline
-###Corner Detection and Alignment
+# Pipeline
+
+### Corner Detection and Alignment
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/48142689/92223664-fd60b780-eeca-11ea-8e7e-76f93f4ed888.png" alt="id-card-neurodata-pipeline" width = "800"/>
 </div>
-###Recto/Verso Document detection
+### Recto/Verso Document detection
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/48142689/92224160-a0193600-eecb-11ea-9243-82d02d86812a.png" alt="id-card-neurodata-process" width = "800"/>
 </div>
-###Text Detection
+
+### Text Detection
 <div align="center">
     <img src="https://user-images.githubusercontent.com/48142689/92224160-a0193600-eecb-11ea-9243-82d02d86812a.png" alt="id-card-neurodata-process" width = "800"/>
 </div>
-###Recognize image text and final results with OCR and informations translation
-####Final Result
-```sh
+### Recognize image text and final results with OCR and informations translation
+#### Final Result
+
+``` sh
 {
    "birthDate": "06 / 04 / 20",
    "birthPlace": "بنزرت - binzart",
@@ -62,8 +68,7 @@ Get the results
    "lastName": "الجلاجلة   Jalajla",
    "otherName": "بذ منصور بن الحبيب   bourgeon Mansour Ben alhabib",
    "recto_verso": "face"
-}
-     
+}    
 ```
 
 
