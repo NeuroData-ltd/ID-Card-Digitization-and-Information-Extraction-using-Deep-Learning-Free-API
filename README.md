@@ -56,8 +56,11 @@ Get the results
 <div align="center">
     <img src="https://user-images.githubusercontent.com/48142689/92224160-a0193600-eecb-11ea-9243-82d02d86812a.png" alt="id-card-neurodata-process" width = "800"/>
 </div>
+
 ### Recognize image text and final results with OCR and informations translation
+
 #### Final Result
+
 
 ``` sh
 {
@@ -73,4 +76,5 @@ Get the results
 
 
 
+find more here: https://neurodata.tech/
 
