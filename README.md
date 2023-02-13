@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.neurodata.tech/">
-    <img src="https://neurodata.tech/assets/img/logos/logo.png" alt="NEURODATA ID Card Digitization Sample" width="100"/>
+    <img src="https://avatars.githubusercontent.com/u/67514861?v=4" alt="NEURODATA ID Card Digitization Sample" width="100"/>
     </a>
 </div>
 
