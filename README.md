@@ -32,7 +32,7 @@ you will get a token for 100 requests for ID card extraction informations.
 ### Step 3: Upload Images For parsing
 Get the results 
 <div align="center">
-    <img src="../sample.png alt="id-card-parsing-neurodata-results" width = "500"/>
+    <img src="sample.png" alt="id-card-parsing-neurodata-results" width = "500"/>
 </div>
 
 
